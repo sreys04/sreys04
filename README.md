@@ -27,3 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreys04&" alt="sreys04" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreys04&show_icons=true&locale=en&layout=compact" alt="sreys04" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreys04" alt="sreys04" /></a></p>
+<div align="center">
+  <img src="https://github.com/sreys04/sreys04/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
