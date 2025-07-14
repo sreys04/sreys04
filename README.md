@@ -1,5 +1,12 @@
-<h1>Hello World 👋</h1>
-<p>Hi, I'm Shreyas Singh 👋 I'm a passionate Software Developer and CSE undergrad from India. I love building responsive web interfaces and solving DSA problems in Java. Always exploring new tech, especially React, Next.js, and Machine Learning.</p>
+<h1 align="center">Hello World 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
+</p>
+
+<p align="center">
+  <strong>I'm Shreyas Singh 👋 I'm a passionate Software Developer and CSE undergrad from India. I love building responsive web interfaces and solving DSA problems in Java. Always exploring new tech, especially React, Next.js, and Machine Learning.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
